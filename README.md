@@ -1,2 +1,1 @@
-# spring5-jokesApp
-Spring Jokes App
+# Spring - Jokes App
