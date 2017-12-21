@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.jokes</groupId>
-	<artifactId>demo</artifactId>
+	<artifactId>jokesapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
@@ -32,6 +32,12 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
+		</dependency>
+
+		<dependency>
+			<groupId>guru.springframework</groupId>
+			<artifactId>chuck-norris-for-actuator</artifactId>
+			<version>0.0.2</version>
 		</dependency>
 
 		<dependency>
