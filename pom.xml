@@ -8,7 +8,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>spring5-jokesApp</name>
+	<name>jokeapp</name>
 	<description>Spring Boot - Jokes App</description>
 
 	<parent>
